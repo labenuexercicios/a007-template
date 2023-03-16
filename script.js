@@ -8,7 +8,7 @@
 
 //let idade = (prompt("Qual sua idade?"));
 
-//c)
+//c) 
 
 //console.log(typeof nome);
 //console.log(typeof idade);
